@@ -1,0 +1,22 @@
+{
+	"name": "FedACHdir",
+	"version": "0.0.1",
+	"description": "Federal Reserve FedACH Participant RDFIs",
+	"keywords": ["fedachdir"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gatepay/FedACHdir.git"
+	},
+	"author"  : {
+		"name"  : "William Wicks",
+		"email" : "wjwicks@gmail.com"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"engines": {
+		"node": "*"
+	},
+	"licenses": [{"type": "MIT", "url": "http://www.opensource.org/licenses/MIT"}]
+}
