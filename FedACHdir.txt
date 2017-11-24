@@ -515,7 +515,7 @@
 							<br>
 							<strong>(Type the date as MM/DD/YYYY)</strong> </p>
 						<p><a id="download_fedwire_format" href="/EPaymentsDirectory/fedwireFormat.html">View the Fedwire Directory File Format only</a></p>
-						<p id="download_Fedwire_effective">The effective date of this Fedwire directory is November 21, 2017.</p>
+						<p id="download_Fedwire_effective">The effective date of this Fedwire directory is November 22, 2017.</p>
 						<p>The full Fedwire file downloaded from this site <strong>does not contain those routing numbers that are ineligible for both funds and securities transfers</strong>. A query requesting a listing of Fedwire routing numbers that have changed may contain routing numbers that have recently become ineligible for both funds and securities transfers, however. </p>
 					</form>
 				</div>
@@ -533,7 +533,7 @@
 							<br>
 							<strong>(Type the date as MM/DD/YYYY)</strong></p>
 						<p><a id="download_ach_file_format" href="/EPaymentsDirectory/achFormat.html">View the FedACH Directory File Format only</a></p>
-						<p id="download_ach_effective">The effective date of this FedACH directory is November 22, 2017.</p>
+						<p id="download_ach_effective">The effective date of this FedACH directory is November 24, 2017.</p>
 					</form>
 				</div>
 			</div>
