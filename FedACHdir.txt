@@ -602,14 +602,14 @@
 				<li><a href="/financial-services/national-settlement-service/index.html">National Settlement Service</a></li>
 				<li><a href="/financial-services/securities/index.html">Securities</a></li>
 				<li><a href="/financial-services/wires/index.html">Wires</a></li>
-			</ul>
-		</div>
-		<div class="col-md-2 col-sm-4 col-xs-6">
-			<ul class="list-unstyled">
-				<li><a href="/central-bank/index.html" class="footer__list-header">Central Bank</a></li>
+			<li><a href="/central-bank/index.html" class="footer__list-header">Central Bank</a></li>
 				<li><a href="https://www.frbdiscountwindow.org/">Lending Central (Off-Site)</a></li>
 				<li><a href="/central-bank/reporting-central/index.html">Reporting Central</a></li>
 				<li><a href="/central-bank/reserves-central/index.html">Reserves Central</a></li>	
+				</ul>
+		</div>
+		<div class="col-md-2 col-sm-4 col-xs-6">
+			<ul class="list-unstyled">
 				<li><a href="/treasury-services/index.html" class="footer__list-header">Treasury Services</a></li>
 				<li><a href="/treasury-services/ach-reclamation.html">ACH Reclamation</a></li>
 				<li><a href="/treasury-services/auctions.html">Auctions</a></li>
