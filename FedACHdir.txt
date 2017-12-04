@@ -508,14 +508,14 @@
 				</div>
 				<div class="panel-body">
 					<form id="searchFormFedwire" name="searchFormFedwire" action="fpddir.txt" method="GET" target="_blank">
-						<p><a id="download_all_fedwire" href="fpddir.txt" target="_blank">Receive All Fedwire Participants</a> (815KB) or<br>
+						<p><a id="download_all_fedwire" href="fpddir.txt" target="_blank">Receive All Fedwire Participants</a> (814KB) or<br>
 							Receive All updates since:
 							<input id="updatedSinceFedwire" name="updatedSinceFedwire" type="text" value=""/>
 							<button id="downloadFedwireButton" type="submit" name="downloadFedwireButton" class="btn btn-default">Download</button>
 							<br>
 							<strong>(Type the date as MM/DD/YYYY)</strong> </p>
 						<p><a id="download_fedwire_format" href="/EPaymentsDirectory/fedwireFormat.html">View the Fedwire Directory File Format only</a></p>
-						<p id="download_Fedwire_effective">The effective date of this Fedwire directory is November 30, 2017.</p>
+						<p id="download_Fedwire_effective">The effective date of this Fedwire directory is December 01, 2017.</p>
 						<p>The full Fedwire file downloaded from this site <strong>does not contain those routing numbers that are ineligible for both funds and securities transfers</strong>. A query requesting a listing of Fedwire routing numbers that have changed may contain routing numbers that have recently become ineligible for both funds and securities transfers, however. </p>
 					</form>
 				</div>
@@ -533,7 +533,7 @@
 							<br>
 							<strong>(Type the date as MM/DD/YYYY)</strong></p>
 						<p><a id="download_ach_file_format" href="/EPaymentsDirectory/achFormat.html">View the FedACH Directory File Format only</a></p>
-						<p id="download_ach_effective">The effective date of this FedACH directory is December 01, 2017.</p>
+						<p id="download_ach_effective">The effective date of this FedACH directory is December 04, 2017.</p>
 					</form>
 				</div>
 			</div>
